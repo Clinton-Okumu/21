@@ -23,7 +23,7 @@ def load_key():
     return key
 
 pass_input = input("Please input your password? ")
-key = load_key() + pass_input.encode()
+key = load_key()
 fer = Fernet(key)
 
 
