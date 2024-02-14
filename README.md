@@ -4,7 +4,7 @@ Python 21 is a folder containing 21 python projects
 2. number_guesser.py - is a random number guessing game
 3. rps.py - is rock, paper, scissors game against the computer
 4. choose_your_own_adv.py - a game where one chooses their own adventure.
-5.
+5. Password manager - lets you add and view existing passwords.
 6.
 7.
 8.
